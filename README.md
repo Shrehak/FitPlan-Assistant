@@ -16,8 +16,6 @@ g++ -o health_management_system main.cpp
 ./health_management_system
 
 
-Follow the on-screen menu to use the system.
-
 Requirements
 * C++ compiler supporting C++11 or later.
 * Optional: A sample users_data.txt file to pre-load user data.
