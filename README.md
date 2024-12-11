@@ -23,9 +23,9 @@ Requirements
   
 Data Storage
 
-User data is stored in a plain text file (users_data.txt) for persistence between sessions.
+* User data is stored in a plain text file (users_data.txt) for persistence between sessions.
 
 
 License
 
-This project is open-source and available under the MIT License.
+* This project is open-source and available under the MIT License.
