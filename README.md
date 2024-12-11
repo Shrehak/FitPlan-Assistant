@@ -17,14 +17,17 @@ g++ -o health_management_system main.cpp
 
 
 Follow the on-screen menu to use the system.
+
 Requirements
 * C++ compiler supporting C++11 or later.
 * Optional: A sample users_data.txt file to pre-load user data.
 
   
 Data Storage
+
 User data is stored in a plain text file (users_data.txt) for persistence between sessions.
 
 
 License
+
 This project is open-source and available under the MIT License.
