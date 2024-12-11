@@ -1,0 +1,13 @@
+# Ignore executable and object files
+*.exe
+*.o
+*.obj
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore IDE/project files
+.vscode/
+.idea/
+*.iml
