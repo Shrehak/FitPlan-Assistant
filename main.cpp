@@ -102,8 +102,8 @@ private:
     }
 };
 
-// HealthManagementSystem class to manage users, their data, and meal plans.
-class HealthManagementSystem {
+// FitPlanAssistant class to manage users, their data, and meal plans.
+class FitPlanAssistant {
 private:
     vector<User> users;                           // List of all users
     unordered_map<string, vector<string>> mealPlans; // Meal plans categorized by diet type
@@ -187,13 +187,13 @@ private:
 
 public:
     // Constructor to initialize the system and load data.
-    HealthManagementSystem() {
+    FitPlanAssistant() {
         loadUserData();
         initializeMealPlans();
     }
 
     // Destructor to save user data before exiting.
-    ~HealthManagementSystem() {
+    ~FitPlanAssistant() {
         saveUserData();
     }
 
@@ -298,8 +298,8 @@ public:
 };
 
 int main() {
-    // Instantiate the health management system and display the main menu.
-    HealthManagementSystem system;
+    //Instantiate the FitPlan Assistant and display the main menu.
+    FitPlanAssistant system;
     system.mainMenu();
     return 0;
 }
