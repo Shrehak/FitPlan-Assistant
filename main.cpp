@@ -267,7 +267,7 @@ public:
     // Main menu for user interaction.
     void mainMenu() {
         while (true) {
-            cout << "\n=== Health Management System ===\n";
+            cout << "\n=== FitPlan Assistance ===\n";
             cout << "1. Add User\n";
             cout << "2. View User\n";
             cout << "3. List Users by BMI Category\n";
