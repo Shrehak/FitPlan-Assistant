@@ -13,7 +13,7 @@ How to Run
 * Compile the program using a C++ compiler (e.g., g++):
 g++ -o fitplan_assistance main.cpp
 * Run the executable:
-./health_management_system
+./fitplan_assistance
 
 
 Requirements
