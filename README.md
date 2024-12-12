@@ -11,7 +11,7 @@ Features
   
 How to Run
 * Compile the program using a C++ compiler (e.g., g++):
-g++ -o health_management_system main.cpp
+g++ -o fitplan_assistance main.cpp
 * Run the executable:
 ./health_management_system
 
